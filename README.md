@@ -74,13 +74,5 @@ My goal is to build clean, efficient, and production-ready software while learni
 Thanks for visiting my profile! Feel free to explore my repositories and projects. If you're hiring for Software Engineer roles or would like to collaborate, I'd love to connect.
 </p>
 
-<h2>📊 GitHub Stats:</h2>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shatayu001&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatayu001&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 ```
