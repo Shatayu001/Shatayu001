@@ -74,5 +74,3 @@ My goal is to build clean, efficient, and production-ready software while learni
 Thanks for visiting my profile! Feel free to explore my repositories and projects. If you're hiring for Software Engineer roles or would like to collaborate, I'd love to connect.
 </p>
 
-
-```
