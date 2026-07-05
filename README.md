@@ -1,4 +1,4 @@
-```html
+
 <h1>Hi there, I'm Shatayu Khante! 👋</h1>
 
 <p>🌟 <strong>Computer Science Graduate | Software Engineer Aspirant | Full-Stack Developer</strong></p>
